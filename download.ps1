@@ -54,3 +54,5 @@ for ($i = 0; $i -lt $maxPages; $i++) {
     }
 }
 
+# costs more gallery points than archive download...
+
